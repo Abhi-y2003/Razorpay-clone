@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/razorpay-clone.git
+   git clone https://github.com/Abhi-y2003/razorpay-clone.git
    ```
 
 2. Navigate to the project directory:
